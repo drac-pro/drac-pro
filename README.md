@@ -16,7 +16,7 @@ I'm a **graduating student of the ALX Software Engineering Program** with a pass
 - 🔭 I’m currently working on **FinMap**, an AI-powered personal finance dashboard.
 - 🌱 I’m currently learning **cloud computing** and exploring more in **DevOps**.
 - 💬 Ask me about **backend development**, **full-stack solutions**, or **system architecture**.
-- 📫 How to reach me: **[YourEmailAddress]**
+- 📫 How to reach me: **dariustohtin@gmail.com**
 - ⚡ Fun fact: I enjoy exploring the balance between performance and scalability in systems!
 
 <!-- Tech Stack Section -->
