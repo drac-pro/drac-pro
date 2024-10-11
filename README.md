@@ -1,5 +1,5 @@
 <!-- GitHub Profile Header -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Darius Tohtin</h1>
 <h3 align="center">A passionate Backend & Full Stack Developer from the ALX Software Engineering Program</h3>
 
 <p align="center">
@@ -73,25 +73,25 @@ A web-based clone of the Airbnb platform with user authentication, dynamic conte
 <!-- Stats Section -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=drac-pro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drac-pro&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- GitHub Trophy Section -->
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YourGitHubUsername]&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=drac-pro&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 <!-- Contribution Graph Section -->
 ## 🔥 Contributions
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drac-pro&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- Footer Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=drac-pro&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
 </p>
 
 <!--
