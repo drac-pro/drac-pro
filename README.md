@@ -11,7 +11,7 @@
 <!-- About Section -->
 ## 👨‍💻 About Me
 
-I'm a **graduating student of the ALX Software Engineering Program** with a passion for **backend and full-stack development**. I love solving both **complex** and **simple problems** using my skills to build innovative solutions.
+I'm a **graduate of the ALX Software Engineering Program** with a passion for **backend and full-stack development**. I love solving both **complex** and **simple problems** using my skills to build innovative solutions.
 
 - 🔭 I’m currently working on **FinMap**, an AI-powered personal finance dashboard.
 - 🌱 I’m currently learning **cloud computing** and exploring more in **DevOps**.
